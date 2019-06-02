@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-multimodule-sample'
+
+include 'sample-common', 'sample-dto', 'sample-repository', 'sample-service', 'sample-application'
